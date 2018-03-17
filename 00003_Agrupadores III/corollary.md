@@ -1,0 +1,1 @@
+Está valiosa regla de CSS, nos permite además de cambiar entre `inline` y `block`, la posibilidad de ocultar elementos usando `none`.
