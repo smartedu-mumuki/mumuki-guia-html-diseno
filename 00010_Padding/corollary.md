@@ -1,0 +1,1 @@
+¡Felicitaciones! Ahora sí, estás listo para aprender a mover los elementos, ¡acompañanos en el siguiente ejercicio!
