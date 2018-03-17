@@ -1,0 +1,15 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: 320px
+  checked: false
+- value: 290px
+  checked: false
+- value: 350px
+  checked: true
