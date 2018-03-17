@@ -1,0 +1,1 @@
+¿Notaste que definimos un `margin-left: 0px;` en el ejemplo? Esto no era necesario, debido a que 0px es el valor por defecto.
