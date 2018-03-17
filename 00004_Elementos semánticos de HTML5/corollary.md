@@ -1,0 +1,1 @@
+_Layout_ es la disposición que elegimos para los elementos de nuestra página, regularmente, esta disposición se repite en muchas páginas del mismo sitio, dando una entidad a la misma.
