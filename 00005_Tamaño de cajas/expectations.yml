@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: css:.por_la_mitad
+  inspection: DeclaresStyle:width:50%

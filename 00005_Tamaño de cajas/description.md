@@ -4,6 +4,8 @@ Para ello, aparecen las propiedades `height` y `width`, para alto y ancho respec
 
 > Escribí el siguiente código en el cuadro de la derecha:
 >
-> ```
-> // Falta ejemplo deberia cortar texto por la definicion de la caja
+> ```css
+.por_la_mitad {
+  width: 50%;
+}
 > ```
