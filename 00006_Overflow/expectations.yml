@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: css:.por_la_mitad
+  inspection: DeclaresStyle:width:50%
+- binding: css:.por_la_mitad
+  inspection: DeclaresStyle:heigth:50px
+- binding: css:.por_la_mitad
+  inspection: DeclaresStyle:overflow:scroll
