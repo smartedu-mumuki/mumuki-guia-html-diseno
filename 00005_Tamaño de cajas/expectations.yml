@@ -2,3 +2,5 @@
 expectations:
 - binding: css:.por_la_mitad
   inspection: DeclaresStyle:width:50%
+- binding: css:.por_la_mitad
+  inspection: DeclaresStyle:height:50%
