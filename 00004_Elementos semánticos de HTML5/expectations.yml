@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: section
+  inspection: DeclaresTag:article
+- binding: article
+  inspection: DeclaresTag:p
