@@ -1,4 +1,4 @@
 ---
 expectations:
 - binding: css:.parrafo_dos
-  inspection: DeclaresStyle:padding-top:10px
+  inspection: DeclaresStyle:padding-left:10px

@@ -6,4 +6,4 @@ Al igual que el `margin`, también es posible definir todo en una sola regla, de
 `padding: 10px 5px 0px 0px;`,
 esto tendria el mismo efecto que nuestro ejemplo anterior, y sigue la misma regla del sentido horario.
 
-> Ahora te toca a vos! Agregale `padding` arriba 10px a la clase “parrafo_dos”.
+> Ahora te toca a vos! Agregale `padding` a la izquierda de 10px a la clase “parrafo_dos”.
