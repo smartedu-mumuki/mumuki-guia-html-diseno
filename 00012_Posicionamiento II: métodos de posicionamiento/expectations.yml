@@ -1,8 +1,0 @@
----
-expectations:
-- binding: css:.cuadrado
-  inspection: DeclaresStyle:top:0
-- binding: css:.cuadrado
-  inspection: DeclaresStyle:right:0
-- binding: css:.cuadrado
-  inspection: DeclaresStyle:position:absolute
