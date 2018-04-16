@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: p
+  inspection: DeclaresStyle:margin-right:5px
+- binding: p
+  inspection: DeclaresStyle:margin-left:5px
