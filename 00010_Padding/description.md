@@ -1,4 +1,4 @@
-El `padding` nos permite definir un área entre el contenido y el borde. También es transparente como el margin, así como también tenemos control individual sobre las 4 aristas de la caja (arriba, derecha, abajo, izquierda).
+El `padding` nos permite definir un área entre el contenido y el borde. También es transparente como el `margin`, así como también tenemos control individual sobre las 4 aristas de la caja (arriba, derecha, abajo, izquierda).
 
 Por ejemplo, si queremos agregar padding arriba y la derecha, 10px y 5px respectivamente hacemos así: `padding-top: 10px; padding-right: 5px;`
 
