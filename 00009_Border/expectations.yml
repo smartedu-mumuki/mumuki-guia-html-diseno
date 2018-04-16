@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: p
+  inspection: DeclaresStyle:border:5px
+- binding: p
+  inspection: DeclaresStyle:border:solid
+- binding: p
+  inspection: DeclaresStyle:border:red
