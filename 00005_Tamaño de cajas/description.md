@@ -7,5 +7,6 @@ Para ello, aparecen las propiedades `height` y `width`, para alto y ancho respec
 > ```css
 .por_la_mitad {
   width: 50%;
+  height: 50%;
 }
 > ```
