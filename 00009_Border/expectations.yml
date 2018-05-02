@@ -1,8 +1,8 @@
 ---
 expectations:
-- binding: p
+- binding: css:p
   inspection: DeclaresStyle:border:5px
-- binding: p
+- binding: css:p
   inspection: DeclaresStyle:border:solid
-- binding: p
+- binding: css:p
   inspection: DeclaresStyle:border:red
