@@ -2,3 +2,7 @@
 expectations:
 - binding: "*"
   inspection: DeclaresTag:article
+- binding: article
+  inspection: DeclaresAttribute:class="fondo-gris"
+- binding: article
+  inspection: DeclaresTag:p
