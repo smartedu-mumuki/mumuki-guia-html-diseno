@@ -2,8 +2,9 @@
 
 Significa que el elemento tiene un significado, y esto es importante tanto para a nosotros como desarrolladores, así como también para los navegadores, dado que estos últimos pueden proveer de mayor accesibilidad a los usuarios.
 
-// FALTA IMAGEN //
-En esta imagen podemos ver varias de las etiquetas semánticas dispuestas en lo que se suele llamar _layout_ :hushed
+<img src="https://www.w3schools.com/html/img_sem_elements.gif" alt="" width="auto" height="auto">
+
+En esta imagen podemos ver varias de las etiquetas semánticas dispuestas.
 
 > Escribí lo siguiente en el cuadro de la derecha:
 >
