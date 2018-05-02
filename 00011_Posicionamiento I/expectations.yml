@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: css:.cuadrado
-  inspection: 'DeclaresStyle:top: 0'
+  inspection: DeclaresStyle:top:0
 - binding: css:.cuadrado
   inspection: DeclaresStyle:right:0
