@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: span
+- binding: css:span
   inspection: DeclaresStyle:color:red
