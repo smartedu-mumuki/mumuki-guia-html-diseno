@@ -6,5 +6,3 @@ expectations:
   inspection: DeclaresAttribute:class="fondo-gris"
 - binding: article
   inspection: DeclaresTag:p
-- binding: article
-  inspection: DeclaresTag:h2
