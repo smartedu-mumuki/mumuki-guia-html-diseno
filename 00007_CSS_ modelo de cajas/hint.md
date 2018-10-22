@@ -1,0 +1,1 @@
+Pensá que la propiedad  `margin` configura tanto los márgenes superiores e inferiores, como a ambos laterales. 

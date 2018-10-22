@@ -11,5 +11,6 @@ choices:
   checked: false
 - value: 290px
   checked: false
-- value: 350px
+- value: 380px
   checked: true
+name: 'CSS: modelo de cajas'
