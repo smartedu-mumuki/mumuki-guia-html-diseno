@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: css:p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:p
   inspection: DeclaresStyle:border:5px
-- binding: css:p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:p
   inspection: DeclaresStyle:border:solid
-- binding: css:p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:p
   inspection: DeclaresStyle:border:red

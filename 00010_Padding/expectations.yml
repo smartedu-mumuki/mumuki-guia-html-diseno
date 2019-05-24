@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: css:.parrafo_dos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.parrafo_dos
   inspection: DeclaresStyle:padding-left:10px

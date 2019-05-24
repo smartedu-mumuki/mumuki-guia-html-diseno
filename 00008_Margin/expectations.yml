@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: css:p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:p
   inspection: DeclaresStyle:margin-right:5px
-- binding: css:p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:p
   inspection: DeclaresStyle:margin-left:5px

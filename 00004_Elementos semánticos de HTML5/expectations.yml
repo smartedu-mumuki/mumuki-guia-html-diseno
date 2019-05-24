@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: section
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: section
   inspection: DeclaresTag:article
-- binding: article
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: article
   inspection: DeclaresTag:p

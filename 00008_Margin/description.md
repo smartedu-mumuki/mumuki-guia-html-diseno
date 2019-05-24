@@ -5,10 +5,10 @@ Por ejemplo:
 
 ```css
 .con_margen {
-  margin-top: 10px; //arriba
-  margin-right: 5px;  //derecha
-  margin-bottom: 5px; //abajo
-  margin-left: 0px; //izquierda
+  margin-top: 10px; /*arriba*/
+  margin-right: 5px;  /*derecha*/
+  margin-bottom: 5px; /*abajo*/
+  margin-left: 0px; /*izquierda*/
 }
 ``` 
 También es posible hacer lo mismo con una sola línea:

@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: css:.cuadrado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.cuadrado
   inspection: DeclaresStyle:top:0
-- binding: css:.cuadrado
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.cuadrado
   inspection: DeclaresStyle:right:0

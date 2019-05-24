@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: DeclaresTag:article
-- binding: article
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: article
   inspection: DeclaresAttribute:class="fondo-gris"
-- binding: article
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: article
   inspection: DeclaresTag:p
